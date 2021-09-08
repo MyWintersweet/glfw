@@ -101,3 +101,9 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+# Hazel-specific
+# Directories
+bin/
+bin-int/
+# Files
+*.vcxproj*
